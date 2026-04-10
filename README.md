@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://nostalgiafun.io/favicon.png" alt="Matcha" width="120" />
+  <img src="https://nostalgiafun.io/logo_red.png" alt="Matcha" width="120" />
 </p>
 
 <h1 align="center">
