@@ -116,7 +116,7 @@ Soumet un signalement d'événement. L'événement est créé avec `verified=fal
 ## Roadmap
 
 - [ ] Explorer Bluesky comme source (API AT Protocol)
-- [ ] Déduplication floue par LLM
+- [x] Déduplication floue par LLM
 - [ ] Vue calendrier
 - [ ] Export CSV/JSON
 - [ ] Page admin web (Supabase Auth)
